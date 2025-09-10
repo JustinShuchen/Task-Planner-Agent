@@ -1,0 +1,343 @@
+import os
+import json
+import random
+from typing import List, Dict
+import numpy as np
+from PIL import Image
+from tqdm import tqdm
+
+import torch
+import torch.nn as nn
+from torch.utils.data import Dataset, DataLoader
+from torchvision import models, transforms
+from transformers import AutoTokenizer, AutoModel
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+
+# ======== 固定路径（已按你的实际情况修改）========
+json_dir = r"c:\Users\hp\Desktop\surf\final_dataset\json"  # 包含多个JSON文件的目录
+img_dir = r"c:\Users\hp\Desktop\surf\final_dataset"     # 包含所有图片的目录
+
+# ======== 可调参数 ========
+BERT_MODEL       = "bert-base-uncased"   
+IMG_BACKBONE     = "resnet18"            
+MAX_LEN          = 64
+IMG_SIZE         = 224
+EPOCHS           = 10
+BATCH_SIZE       = 16
+LR               = 2e-4
+SEED             = 4
+FINETUNE_TEXT    = False                 
+FINETUNE_IMAGE   = False                 
+
+# ======== 工具函数 ========
+def set_seed(seed=SEED):
+    random.seed(seed); np.random.seed(seed)
+    torch.manual_seed(seed); torch.cuda.manual_seed_all(seed)
+
+def load_records_from_dir(json_dir: str) -> List[Dict]:
+    """从目录加载所有JSON文件并合并记录"""
+    records = []
+    # 获取目录中所有JSON文件
+    for filename in os.listdir(json_dir):
+        if filename.endswith('.json'):
+            json_path = os.path.join(json_dir, filename)
+            try:
+                with open(json_path, "r", encoding="utf-8") as f:
+                    file_records = json.load(f)
+                    # 确保加载的是列表
+                    if isinstance(file_records, list):
+                        records.extend(file_records)
+                        print(f"加载成功: {filename}, 包含 {len(file_records)} 条记录")
+                    else:
+                        print(f"警告: {filename} 内容不是列表，已跳过")
+            except Exception as e:
+                print(f"加载 {filename} 失败: {str(e)}")
+    
+    if not records:
+        raise ValueError("未从JSON目录加载到任何记录，请检查目录和文件格式")
+    
+    # 轻量校验字段名
+    required_fields = ("prompt", "image_path", "task_type")
+    for field in required_fields:
+        if field not in records[0]:
+            raise KeyError(f"JSON字段缺失: 需要包含 '{field}'，请检查你的数据。")
+    
+    return records
+
+def build_label_maps(records: List[Dict]):
+    classes = sorted(list({r["task_type"] for r in records}))
+    label2id = {c:i for i,c in enumerate(classes)}
+    id2label = {i:c for c,i in label2id.items()}
+    return label2id, id2label
+
+def split_data(records, test_size=0.2, val_size=0.1, seed=SEED):
+    y = [r["task_type"] for r in records]
+    train_val, test = train_test_split(records, test_size=test_size, random_state=seed, stratify=y)
+    y_tv = [r["task_type"] for r in train_val]
+    val_ratio = val_size / (1 - test_size)
+    train, val = train_test_split(train_val, test_size=val_ratio, random_state=seed, stratify=y_tv)
+    return train, val, test
+from pathlib import Path
+
+ALT_EXTS = [".png", ".jpg", ".jpeg"]  # 允许的图片扩展名
+
+def _normalize_rel(p: str) -> str:
+    """统一 image_path 写法：反斜杠→正斜杠、去首尾空格"""
+    return (p or "").replace("\\", "/").strip()
+
+def _exists_with_exts(abs_path: Path) -> bool:
+    """允许 .png/.jpg/.jpeg 兜底"""
+    if abs_path.exists():
+        return True
+    stem = abs_path.with_suffix("")
+    for ext in ALT_EXTS:
+        if (stem.with_suffix(ext)).exists():
+            return True
+    return False
+
+def filter_records_by_image(records: List[Dict], images_root: str) -> List[Dict]:
+    """只保留能在磁盘上找到图片的样本；顺带规范化 image_path"""
+    root = Path(images_root)
+    keep = []
+    drop = 0
+    for r in records:
+        rel = _normalize_rel(r.get("image_path", ""))
+        if not rel:
+            drop += 1
+            continue
+        abs_path = (root / rel)
+        if _exists_with_exts(abs_path):
+            r["image_path"] = rel  # 规范化写回
+            keep.append(r)
+        else:
+            drop += 1
+    print(f"🔍 记录筛选：原始 {len(records)} 条 → 保留 {len(keep)} 条，忽略无图 {drop} 条")
+    if not keep:
+        raise ValueError("筛选后没有可用样本：请检查 img_dir / image_path 是否正确。")
+    return keep
+
+# ======== 数据集 ========
+class MultiModalDataset(Dataset):
+    def __init__(self, recs, label2id, tokenizer, images_root, max_len=64, img_size=224):
+        self.recs = recs
+        self.label2id = label2id
+        self.tokenizer = tokenizer
+        self.images_root = images_root
+        self.max_len = max_len
+        self.tf = transforms.Compose([
+            transforms.Resize((img_size, img_size)),
+            transforms.ToTensor(),
+            transforms.Normalize([0.485,0.456,0.406],[0.229,0.224,0.225])
+        ])
+
+    def __len__(self):
+        return len(self.recs)
+
+    def __getitem__(self, i):
+        r = self.recs[i]
+        text = r["prompt"]
+        # 兼容相对/绝对路径
+       # 兼容相对/绝对路径
+        img_path = r["image_path"]
+        img_path = _normalize_rel(img_path)              # 新增：统一路径写法
+        if not os.path.isabs(img_path):
+          img_path = os.path.join(self.images_root, img_path)
+        if not os.path.exists(img_path):
+    # 兜底尝试其他扩展名
+          stem, ext = os.path.splitext(img_path)
+          found = False
+          for e in ALT_EXTS:
+           cand = stem + e
+           if os.path.exists(cand):
+            img_path = cand
+            found = True
+            break
+          if not found:
+            raise FileNotFoundError(f"找不到图片: {img_path}")
+
+        # 文本
+        enc = self.tokenizer(text, padding="max_length", truncation=True,
+                             max_length=self.max_len, return_tensors="pt")
+        item = {k: v.squeeze(0) for k, v in enc.items()}
+
+        # 图像
+        img = Image.open(img_path).convert("RGB")
+        img = self.tf(img)
+        item["pixel_values"] = img
+
+        # 标签
+        item["label"] = torch.tensor(self.label2id[r["task_type"]], dtype=torch.long)
+        return item
+
+# ======== 编码器 ========
+class TextEncoder(nn.Module):
+    def __init__(self, model_name=BERT_MODEL, finetune=FINETUNE_TEXT):
+        super().__init__()
+        self.bert = AutoModel.from_pretrained(model_name)
+        if not finetune:
+            for p in self.bert.parameters():
+                p.requires_grad = False
+        self.out_dim = self.bert.config.hidden_size
+
+    def forward(self, input_ids, attention_mask):
+        out = self.bert(input_ids=input_ids, attention_mask=attention_mask)
+        if hasattr(out, "pooler_output") and out.pooler_output is not None:
+            return out.pooler_output
+        return out.last_hidden_state[:, 0, :]  # 退化到CLS
+
+class ImageEncoder(nn.Module):
+    def __init__(self, backbone=IMG_BACKBONE, finetune=FINETUNE_IMAGE):
+        super().__init__()
+        if backbone == "resnet50":
+            net = models.resnet50(weights=models.ResNet50_Weights.DEFAULT)
+            feat_dim = 2048
+        else:
+            net = models.resnet18(weights=models.ResNet18_Weights.DEFAULT)
+            feat_dim = 512
+        self.out_dim = feat_dim
+        self.cnn = nn.Sequential(*list(net.children())[:-1])  # 去掉fc
+        if not finetune:
+            for p in self.cnn.parameters():
+                p.requires_grad = False
+
+    def forward(self, x):
+        f = self.cnn(x)      # [B,C,1,1]
+        return f.flatten(1)  # [B,C]
+
+# ======== 全连接融合分类器 ========
+class FusionMLP(nn.Module):
+    def __init__(self, text_dim, img_dim, num_classes):
+        super().__init__()
+        self.net = nn.Sequential(
+            nn.Linear(text_dim + img_dim, 512),
+            nn.ReLU(),
+            nn.Dropout(0.3),
+            nn.Linear(512, 256),
+            nn.ReLU(),
+            nn.Dropout(0.3),
+            nn.Linear(256, num_classes)
+        )
+
+    def forward(self, t, i):
+        return self.net(torch.cat([t, i], dim=1))
+
+# ======== 评估 ========
+@torch.no_grad()
+def evaluate(loader, txt_enc, img_enc, clf, device):
+    txt_enc.eval(); img_enc.eval(); clf.eval()
+    tot, cor = 0, 0
+    for batch in loader:
+        batch = {k:(v.to(device) if isinstance(v, torch.Tensor) else v) for k,v in batch.items()}
+        t = txt_enc(batch["input_ids"], batch["attention_mask"])
+        im = img_enc(batch["pixel_values"])
+        logits = clf(t, im)
+        pred = logits.argmax(1)
+        cor += (pred == batch["label"]).sum().item()
+        tot += batch["label"].size(0)
+    return cor / max(tot, 1)
+
+@torch.no_grad()
+def test_and_report(loader, txt_enc, img_enc, clf, device, id2label):
+    txt_enc.eval(); img_enc.eval(); clf.eval()
+    y_true, y_pred = [], []
+    for batch in loader:
+        batch = {k:(v.to(device) if isinstance(v, torch.Tensor) else v) for k,v in batch.items()}
+        t = txt_enc(batch["input_ids"], batch["attention_mask"])
+        im = img_enc(batch["pixel_values"])
+        logits = clf(t, im)
+        pred = logits.argmax(1).cpu().numpy()
+        y_pred.extend(pred.tolist())
+        y_true.extend(batch["label"].cpu().numpy().tolist())
+    acc = accuracy_score(y_true, y_pred)
+    print(f"[TEST] accuracy={acc:.4f}")
+    print(classification_report(y_true, y_pred, target_names=[id2label[i] for i in range(len(id2label))]))
+    print("Confusion matrix:\n", confusion_matrix(y_true, y_pred))
+
+# ======== 主流程 ========
+def main():
+    set_seed(SEED)
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    print("Device:", device)
+
+    # 1) 读数据 + 标签映射
+    records = load_records_from_dir(json_dir)
+    # >>> 新增：忽略坏样本（找不到图片的记录）
+    records = filter_records_by_image(records, img_dir)
+
+    print(f"共加载 {len(records)} 条记录（已过滤无图样本）")
+
+    
+    label2id, id2label = build_label_maps(records)
+    with open("label_map.json", "w", encoding="utf-8") as f:
+        json.dump({"label2id": label2id, "id2label": id2label}, f, ensure_ascii=False, indent=2)
+    print(f"共 {len(label2id)} 个类别：", list(label2id.keys()))
+
+    # 2) 划分数据集
+    train_rec, val_rec, test_rec = split_data(records, test_size=0.2, val_size=0.1, seed=SEED)
+    print(f"Split -> train={len(train_rec)}, val={len(val_rec)}, test={len(test_rec)}")
+
+    # 3) 构建数据加载器
+    tokenizer = AutoTokenizer.from_pretrained(BERT_MODEL)
+    train_ds = MultiModalDataset(train_rec, label2id, tokenizer, img_dir, MAX_LEN, IMG_SIZE)
+    val_ds   = MultiModalDataset(val_rec,   label2id, tokenizer, img_dir, MAX_LEN, IMG_SIZE)
+    test_ds  = MultiModalDataset(test_rec,  label2id, tokenizer, img_dir, MAX_LEN, IMG_SIZE)
+    train_loader = DataLoader(train_ds, batch_size=BATCH_SIZE, shuffle=True, num_workers=2)
+    val_loader   = DataLoader(val_ds,   batch_size=BATCH_SIZE, shuffle=False, num_workers=2)
+    test_loader  = DataLoader(test_ds,  batch_size=BATCH_SIZE, shuffle=False, num_workers=2)
+
+    # 4) 模型
+    txt_enc = TextEncoder(BERT_MODEL, FINETUNE_TEXT).to(device)
+    img_enc = ImageEncoder(IMG_BACKBONE, FINETUNE_IMAGE).to(device)
+    clf     = FusionMLP(txt_enc.out_dim, img_enc.out_dim, len(label2id)).to(device)
+
+    params = list(filter(lambda p: p.requires_grad, list(txt_enc.parameters()) + list(img_enc.parameters()) + list(clf.parameters())))
+    optimizer = torch.optim.AdamW(params, lr=LR)
+    criterion = nn.CrossEntropyLoss()
+
+    # 5) 训练
+    best_val, best_state = 0.0, None
+    for ep in range(1, EPOCHS+1):
+        txt_enc.train(); img_enc.train(); clf.train()
+        total, correct, loss_sum = 0, 0, 0.0
+        for batch in tqdm(train_loader, desc=f"Epoch {ep}/{EPOCHS}"):
+            batch = {k:(v.to(device) if isinstance(v, torch.Tensor) else v) for k,v in batch.items()}
+            optimizer.zero_grad()
+            t = txt_enc(batch["input_ids"], batch["attention_mask"])
+            im = img_enc(batch["pixel_values"])
+            logits = clf(t, im)
+            loss = criterion(logits, batch["label"])
+            loss.backward()
+            optimizer.step()
+
+            loss_sum += loss.item() * batch["label"].size(0)
+            pred = logits.argmax(1)
+            correct += (pred == batch["label"]).sum().item()
+            total += batch["label"].size(0)
+
+        train_acc = correct / max(total,1)
+        val_acc = evaluate(val_loader, txt_enc, img_enc, clf, device)
+        print(f"[Epoch {ep}] train_acc={train_acc:.4f} val_acc={val_acc:.4f} loss={loss_sum/max(total,1):.4f}")
+
+        if val_acc > best_val:
+            best_val = val_acc
+            best_state = {
+                "txt": txt_enc.state_dict(),
+                "img": img_enc.state_dict(),
+                "clf": clf.state_dict()
+            }
+            torch.save(best_state, "best_mm_fc.pt")
+            print("✓ Saved best checkpoint -> best_mm_fc.pt")
+
+    # 6) 测试
+    if best_state is not None:
+        txt_enc.load_state_dict(best_state["txt"])
+        img_enc.load_state_dict(best_state["img"])
+        clf.load_state_dict(best_state["clf"])
+    test_and_report(test_loader, txt_enc, img_enc, clf, device, id2label)
+
+if __name__ == "__main__":
+    
+
+     
+    main()
