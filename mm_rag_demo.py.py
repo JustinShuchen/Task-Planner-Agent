@@ -14,7 +14,7 @@ from transformers import AutoTokenizer, AutoModel
 import torch.nn as nn
 
 # ===== 路径与常量（按需修改）=====
-DATASET_ROOT = Path(r"c:\Users\hp\Desktop\surf\final_dataset")  # 包含 images_byAI、json
+DATASET_ROOT = Path(r"c:\Users\final_dataset")  # 包含 images_byAI、json
 JSON_DIR     = DATASET_ROOT / "json"
 INDEX_DIR    = Path("./vecstore"); INDEX_DIR.mkdir(parents=True, exist_ok=True)
 INDEX_PATH   = INDEX_DIR / "mm.index"
@@ -322,4 +322,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
