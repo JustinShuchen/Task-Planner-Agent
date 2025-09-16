@@ -1,0 +1,3402 @@
+[
+  {
+    "prompt": "Could you adjust the screw with a screwdriver?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw2.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "It may be wise to delicately use a screwdriver that suits the screw best.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw85.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure to secure the screw using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw210.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Tighten the screw firmly using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw1.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Utilize a screwdriver to ensure the screw is properly tightened.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw96.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's make this perfect! Use the screwdriver to ensure the screw is tightened precisely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw96.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you tighten the screw with a screwdriver?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw13.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you tighten the screw with the screwdriver, please?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw39.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're doing fantastic! Go ahead and tighten the screw securely using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw72.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you make sure to fasten the screw accurately?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw49.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're almost there! Use the screwdriver to tighten the screw with precision.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw103.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure the screw is securely fastened with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw101.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please tighten the screw using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw56.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Fantastic effort! Now, use the screwdriver to tighten that screw securely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw35.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're almost there! Use the screwdriver to tighten the screw with precision.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw42.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Ensure the screw is tightened properly with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw11.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're on a roll! Use the screwdriver and make sure that screw is tightened just right.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw105.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you fasten the screw securely using a screwdriver?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw35.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you gracefully use a screwdriver to snugly secure the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw5.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Find the screwdriver and tighten the screw with care.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw85.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please pick up the screwdriver and ensure the screw is tightened properly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw34.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you mind ensuring the screw is fastened with just the right amount of pressure?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw72.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure to tighten the screw fully using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw710.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Great job! Now, please use the screwdriver to tighten the screw.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw410.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please tighten the screw using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw96.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Fasten the screw using a screwdriver for a precise fit.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw11.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you gracefully use a screwdriver to snugly secure the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw210.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you assist by securing the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw310.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Find the screwdriver and tighten the screw with care.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw62.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Well done so far! Now, use the screwdriver to tighten the screw precisely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw79.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you please take a moment to tighten the screw precisely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw19.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Utilize the screwdriver to perform a precise screw-tightening action.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw53.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you be so kind as to ensure the screw is tightened just right?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw28.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Secure the screw by tightening it now.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw210.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're almost there! Use the screwdriver to give that screw a precise twist.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw210.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you be able to grab the screwdriver and tighten the screw precisely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw39.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would it be possible to apply a gentle and precise force to tighten the screw securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw510.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure to secure the screw tightly with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw104.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're almost there! Use the screwdriver to tighten the screw with precision.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw10.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you be able to grab the screwdriver and tighten the screw precisely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw75.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you kindly tighten the screw securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw510.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please use a screwdriver to securely tighten the screw.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw102.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Keep it up! Use the screwdriver to secure the screw with confidence.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw10.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please ensure that the screw is fastened accurately.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw98.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you make sure to fasten the screw accurately?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw47.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perhaps you could kindly secure the screw with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw103.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Apply the screwdriver to tighten the screw securely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw39.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perform the tightening of the screw using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw510.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perform the screw-tightening operation using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw61.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Might I gently suggest using a screwdriver designed for this specific screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw43.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's finish strong! Use the screwdriver to tighten that screw with accuracy.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw44.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're doing great! Use the screwdriver to ensure the screw is snug.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw71.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Employ the screwdriver to securely tighten the screw.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw92.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you kindly verify that the screw is tightened properly?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw77.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you please ensure the screw is fastened securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw87.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please ensure the screw is fastened tightly with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw25.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's finish strong! Use the screwdriver to tighten that screw with accuracy.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw38.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you help by securing the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw71.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Kindly tighten the screw using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw84.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you please take a moment to tighten the screw precisely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw96.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're on a roll! Use the screwdriver and make sure that screw is tightened just right.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw92.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Grab the screwdriver and tighten the screw firmly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw1010.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Keep it up! Use the screwdriver to secure the screw with confidence.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw22.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Secure the screw by tightening it now.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw46.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're on a roll! Use the screwdriver and make sure that screw is tightened just right.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw63.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you help tighten the screw using a screwdriver?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw23.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Use a screwdriver to fasten the screw properly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw210.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure the screw is securely fastened with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw15.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you be so kind as to ensure the screw is tightened just right?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw51.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please pick up the screwdriver and ensure the screw is tightened properly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw410.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Might I gently suggest using a screwdriver designed for this specific screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw34.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perhaps you could kindly secure the screw with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw76.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you use the screwdriver to tighten the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw108.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please use the screwdriver to tighten the screw firmly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw35.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Retrieve the screwdriver and ensure the screw is tightly fastened.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw69.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Might I gently suggest using a screwdriver designed for this specific screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw32.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Grab the screwdriver and tighten the screw firmly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw53.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you assist by securing the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw104.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you ensure the screw is tightened securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw42.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Might I gently suggest using a screwdriver designed for this specific screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw69.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Execute the screw-tightening operation with precision.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw65.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Fantastic effort! Now, use the screwdriver to tighten that screw securely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw106.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're almost there! Use the screwdriver to tighten the screw with precision.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw710.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you ensure the screw is tightened securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw56.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Use a screwdriver to tighten the screw precisely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw57.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Might I gently suggest using a screwdriver designed for this specific screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw35.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's ace this task! Use the screwdriver and secure that screw tightly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw71.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Pick up the screwdriver and tighten the screw accurately.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw24.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you please take a moment to tighten the screw precisely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw17.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you kindly tighten the screw securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw1.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perform the tightening of the screw using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw33.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you mind ensuring the screw is fastened with just the right amount of pressure?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw17.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please identify and use the screwdriver to tighten the screw efficiently.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw31.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you assist by securing the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw910.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's finish strong! Use the screwdriver to tighten that screw with accuracy.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw7.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure the screw is securely fastened with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw94.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're doing fantastic! Go ahead and tighten the screw securely using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw83.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Use the screwdriver to tighten the screw securely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw4.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please pick up the screwdriver and ensure the screw is tightened properly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw98.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you kindly attend to the screw, making sure to use a screwdriver for a perfect fit?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw1.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Fasten the screw using a screwdriver for a precise fit.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw103.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please use a screwdriver to ensure the screw is tightened firmly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw36.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Well done so far! Now, use the screwdriver to tighten the screw precisely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw71.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would it be possible to apply a gentle and precise force to tighten the screw securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw41.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you help tighten the screw using a screwdriver?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw57.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perform the tightening of the screw using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw49.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please use the screwdriver to tighten the screw firmly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw84.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Apply the screwdriver to tighten the screw securely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw48.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Confirm the screw is tight using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw37.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're doing fantastic! Go ahead and tighten the screw securely using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw69.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perform the screw-tightening operation using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw310.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please pick up the screwdriver and ensure the screw is tightened properly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw83.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please ensure that the screw is fastened accurately.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw86.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you pick up the screwdriver and make sure the screw is tightened securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw98.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Use the screwdriver to tighten the screw securely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw7.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's make this perfect! Use the screwdriver to ensure the screw is tightened precisely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw82.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you please make sure the screw is securely tightened?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw65.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "If it’s not too much trouble, ensure that the screw is tightened carefully.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw37.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure to secure the screw using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw22.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please ensure that the screw is fastened accurately.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw81.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're doing fantastic! Go ahead and tighten the screw securely using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw99.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Adjust the screw tightly using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw32.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Ensure the screw is tightened properly with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw6.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Screw the fastener tightly using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw106.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're unstoppable! Use the screwdriver to ensure the screw is firmly in place.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw102.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you ensure the screw is tightened securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw43.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you be so kind as to ensure the screw is tightened just right?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw54.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you make sure to fasten the screw accurately?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw66.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Grab the screwdriver and tighten the screw firmly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw310.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Fantastic effort! Now, use the screwdriver to tighten that screw securely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw16.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you please take a moment to tighten the screw precisely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw93.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perhaps a gentle tightening of the screw would be beneficial.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw75.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Utilize the screwdriver to perform a precise screw-tightening action.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw810.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Great job! Now, please use the screwdriver to tighten the screw.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw410.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Keep up the excellent work! Use the screwdriver to give that screw a good, firm twist.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw109.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perhaps a gentle tightening of the screw would be beneficial.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw78.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's make it perfect! Use the screwdriver to tighten that screw with care.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw39.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you gracefully use a screwdriver to snugly secure the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw110.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you assist by securing the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw96.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perhaps a gentle tightening of the screw would be beneficial.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw63.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Ensure the screw is tightened properly with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw34.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're unstoppable! Use the screwdriver to ensure the screw is firmly in place.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw15.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Confirm the screw is tight using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw37.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Screw the fastener tightly using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw10.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're almost there! Use the screwdriver to give that screw a precise twist.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw58.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you mind tightening the screw with a screwdriver?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw59.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please pick up the screwdriver and ensure the screw is tightened properly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw410.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please tighten the screw using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw65.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you tighten the screw with the screwdriver, please?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw47.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're doing fantastic! Go ahead and tighten the screw securely using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw59.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Use the screwdriver to tighten the screw securely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw95.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Pick up the screwdriver and tighten the screw accurately.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw78.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perform the tightening of the screw using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw101.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Employ the screwdriver to securely tighten the screw.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw74.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you help by securing the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw2.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you kindly tighten the screw securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw310.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you mind tightening the screw with a screwdriver?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw14.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you mind ensuring the screw is fastened with just the right amount of pressure?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw107.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please ensure that the screw is fastened accurately.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw45.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you be so kind as to ensure the screw is tightened just right?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw65.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're doing fantastic! Go ahead and tighten the screw securely using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw87.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you pick up the screwdriver and make sure the screw is tightened securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw95.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please pick up the screwdriver and ensure the screw is tightened properly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw22.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would you mind selecting the screwdriver and tightening the screw accurately?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw59.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Use a screwdriver to tighten the screw precisely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw54.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you use the screwdriver to tighten the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw10.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please use a screwdriver to securely tighten the screw.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw63.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you gracefully use a screwdriver to snugly secure the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw89.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "It may be wise to delicately use a screwdriver that suits the screw best.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw106.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Fasten the screw using a screwdriver for a precise fit.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw85.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you help by securing the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw25.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please ensure that the screw is fastened accurately.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw24.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please pick up the screwdriver and ensure the screw is tightened properly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw39.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's finish strong! Use the screwdriver to tighten that screw with accuracy.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw810.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure to tighten the screw fully using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw81.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Kindly tighten the screw using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw34.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Use a screwdriver to tighten the screw precisely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw88.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perform the screw-tightening operation using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw81.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Retrieve the screwdriver and ensure the screw is tightly fastened.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw78.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you please ensure the screw is fastened securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw43.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's ace this task! Use the screwdriver and secure that screw tightly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw52.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Screw the fastener tightly using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw91.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Fasten the screw using a screwdriver for a precise fit.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw47.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "You're almost there! Use the screwdriver to give that screw a precise twist.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw73.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Tighten the screw firmly using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw78.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Pick up the screwdriver and tighten the screw accurately.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw97.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Well done so far! Now, use the screwdriver to tighten the screw precisely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw12.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure the screw is securely fastened with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw55.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Apply the screwdriver to tighten the screw securely.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw64.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Please ensure the screw is fastened tightly with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw5.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Make sure to secure the screw using a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw91.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you ensure the screw is tightened securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw12.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you gracefully use a screwdriver to snugly secure the screw?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw107.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Would it be possible to apply a gentle and precise force to tighten the screw securely?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw38.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "It may be wise to delicately use a screwdriver that suits the screw best.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw87.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Let's ace this task! Use the screwdriver and secure that screw tightly.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw1010.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Screw the fastener tightly using the screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw21.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Can you make sure to fasten the screw accurately?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw75.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Perhaps you could kindly secure the screw with a screwdriver.",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw66.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  },
+  {
+    "prompt": "Could you kindly attend to the screw, making sure to use a screwdriver for a perfect fit?",
+    "task_id": 8,
+    "task_type": "tighten_screw",
+    "object_target": "screw",
+    "image_path": "images_byAI\\screw\\screw59.png",
+    "objects": [
+      "screw"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the screwdriver",
+      "Tighten the screw"
+    ],
+    "class_type": "tightening_screws"
+  }
+]

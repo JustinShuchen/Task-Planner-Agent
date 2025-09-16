@@ -1,0 +1,3402 @@
+[
+  {
+    "prompt": "Let's go ahead and measure the dimensions of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure99.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Record the dimensions of the cube using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure77.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Accurately measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure97.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you kindly measure the object's size for me?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure62.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the length of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure51.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "When convenient, might you measure the height of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure14.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you take a moment to measure the width of the cube using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure24.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the width of the cube with a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure23.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind taking a measurement of the item's dimensions?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure910.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please go ahead and measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure63.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "It would be great if you could measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure67.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "When convenient, might you measure the height of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure11.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you take a moment to measure the width of the cube using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure44.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you use a ruler to check the width of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure53.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure210.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the object's size using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure21.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the object's size using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure57.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure31.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the dimensions of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure43.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's dimensions using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure41.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Ensure that the object's size is measured precisely.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure93.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please take a moment to measure the object's size with a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure19.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure37.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's measure the size of the object to ensure accuracy.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure11.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you check the width of the cube using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure52.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure16.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Go ahead and measure the size of the object, please.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure32.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure47.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you kindly measure the object's dimensions?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure210.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Make sure to use a ruler while measuring the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure39.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly take a ruler and measure the object's dimensions.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure87.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the object's size using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure38.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Can you measure the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure89.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the dimensions of the item?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure66.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind taking a measurement of the item's dimensions?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure77.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to find the dimensions of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure9.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the cube for me?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure98.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you be so kind as to check the length of the cube with a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure19.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to determine the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure99.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the dimensions of the item?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure36.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the size of the object?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure42.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly take a ruler and measure the object's dimensions.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure94.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure29.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly take a measurement of the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure73.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Can you measure the size of the cube using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure84.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you use a ruler to check the width of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure92.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Make sure to use a ruler to measure the object's size accurately.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure110.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's dimensions using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure56.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure410.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you kindly use a ruler to measure the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure54.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Can you measure the dimensions of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure74.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Take a measurement of the item's size, please.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure42.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's size with the ruler when you're ready.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure7.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "I need you to measure the dimensions of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure810.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's go ahead and measure the dimensions of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure56.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure610.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "If it's convenient for you, would you measure the length of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure56.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you use a ruler to check the height of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure63.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the dimensions of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure61.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the object's size using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure79.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Make sure to measure the object's size accurately with a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure81.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the diameter of the cube using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure13.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Can you take a moment to measure the size of this object?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure24.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the size of the object with precision.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure99.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please ascertain the size of the cube with your ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure42.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you please take measurements of the object's size?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure88.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you use a ruler to measure the width of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure68.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you please take measurements of the object's size?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure46.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's size with the ruler when you're ready.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure46.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind taking a measurement of the item's dimensions?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure69.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's dimensions using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure33.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Take a ruler and measure the object's dimensions.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure61.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Verify the size of the cube using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure23.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please use a ruler to measure the dimensions of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure59.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please determine the dimensions of the item using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure56.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the dimensions of the item?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure98.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Make sure to measure the size of the object accurately.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure92.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the size of the item using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure93.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please use a ruler to gauge the thickness of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure34.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the dimensions of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure33.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you be able to measure the dimensions of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure48.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please determine the size of the cube using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure29.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the length of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure95.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to determine the length of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure810.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you please measure the object's size?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure810.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please ensure the size of the object is measured correctly.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure16.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Assess the size of the cube with a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure67.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please take a moment to measure the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure210.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you be able to measure the cube accurately?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure710.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Check the height of the cube with a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure71.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly take a measurement of the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure19.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the height of the cube with a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure86.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to find the dimensions of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure57.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure810.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you use a ruler to check the height of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure81.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please check the dimensions of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure210.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please make sure to measure the object's size thoroughly.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure22.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to assess the height of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure17.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Verify the size of the cube using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure21.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the length of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure81.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's go ahead and measure the dimensions of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure75.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Go ahead and measure the size of the object, please.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure8.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly take a moment to measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure98.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please take a moment to measure the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure510.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Ensure that the object's size is measured precisely.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure710.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly measure the dimensions of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure310.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you use a ruler to measure the width of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure91.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's use a ruler to measure how big the object is.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure37.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please take a moment to measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure10.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind measuring the object's size using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure15.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the cube using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure910.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "I'd like you to measure the size of this object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure89.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Go ahead and measure the size of the object, please.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure410.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please make sure to measure the object's size thoroughly.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure11.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's ensure the object's size is measured.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure2.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly take a ruler and measure the object's dimensions.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure65.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's see you measure the size of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure31.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Record the dimensions of the cube using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure79.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "It's time to measure the size of this object accurately.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure92.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "At your earliest convenience, might you check the size of the cube using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure76.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you be able to measure the size of this item?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure18.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure710.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's measure the size of the object to ensure accuracy.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure56.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please check the dimensions of the cube with a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure73.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Determine the size of the item by measuring it.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure92.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Whenever you're ready, could you measure the cube with a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure64.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's size and record it accurately.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure95.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "I would appreciate it if you could measure the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure4.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's measure the size of the object to ensure accuracy.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure71.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you measure the dimensions of the object, please?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure49.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please ensure the size of the object is measured correctly.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure9.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Verify the size of the item by measuring it.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure2.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's use a ruler to measure how big the object is.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure58.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Can you measure the size of the cube using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure54.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you measure the dimensions of the object, please?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure94.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the size of the item, making sure to be precise.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure3.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Accurately measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure36.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to assess the height of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure78.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you please take measurements of the object's size?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure97.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please proceed to measure the dimensions of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure82.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "It would be great if you could measure the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure97.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the length of the cube using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure16.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please check the dimensions of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure21.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you measure the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure15.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Can you measure the size of the cube using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure47.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Take a ruler and measure the object's dimensions.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure61.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "It would be great if you could measure the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure31.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you kindly measure the dimensions of this object for me?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure28.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "It would be great if you could measure the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure52.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please take a moment to measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure11.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly take a ruler and measure the object's dimensions.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure68.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please make sure to measure the object's size thoroughly.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure310.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Verify the size of the item by measuring it.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure17.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to determine the size of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure92.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "I'd like you to measure the size of this object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure10.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's dimensions using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure21.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's find out how big this object is by measuring it.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure97.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please use your ruler to measure the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure1.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you use a ruler to measure the object?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure55.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the dimensions of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure710.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Utilize a ruler to measure the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure78.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to verify the length of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure45.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you measure the size of the object using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure35.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure69.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "It would be great if you could measure the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure73.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly take a measurement of the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure3.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to measure the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure28.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure34.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Employ your ruler to gauge the length of the cube.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure65.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please take a moment to measure the size of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure86.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to determine the dimensions of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure210.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's size using the ruler provided.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure63.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's size with the ruler when you're ready.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure89.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use the ruler to get the exact measurements of the object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure64.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure55.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "I would appreciate it if you could measure the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure96.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Make sure you measure the object's size accurately.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure94.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Can you measure the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure23.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the size of the item, making sure to be precise.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure78.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you help by measuring the size of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure6.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Take a measurement of the item's size, please.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure57.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Please take a moment to measure the item's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure12.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Use a ruler to measure the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure54.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Determine the size of the item by measuring it.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure85.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you be able to measure the dimensions of the cube?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure83.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Would you mind taking a measurement of the item's dimensions?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure3.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Make sure to measure the size of the object accurately.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure18.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly take a measurement of the object's size.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure11.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "I'd like you to measure the size of this object.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure5.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "At your earliest convenience, might you check the size of the cube using a ruler?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure69.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you please take measurements of the object's size?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure21.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Ensure you measure the object's size with care.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure910.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Kindly measure the dimensions of the item.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure210.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Ensure that the object's size is measured precisely.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure33.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the object's size, ensuring to cover all dimensions.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure85.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Measure the cube using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure110.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Let's find out how big this object is by measuring it.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure13.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you please take measurements of the object's size?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure14.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Could you please measure how large the object is?",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure72.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  },
+  {
+    "prompt": "Accurately measure the size of the object using a ruler.",
+    "task_id": 9,
+    "task_type": "measure_size",
+    "object_target": "cube",
+    "image_path": "images_byAI\\measure\\measure35.png",
+    "objects": [
+      "cube"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the ruler",
+      "Measure the cube"
+    ],
+    "class_type": "measuring_size"
+  }
+]

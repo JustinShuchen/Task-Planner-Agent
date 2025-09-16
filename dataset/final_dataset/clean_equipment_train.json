@@ -1,0 +1,3402 @@
+[
+  {
+    "prompt": "Please ensure the equipment is thoroughly cleaned.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean31.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please ensure the equipment is thoroughly cleaned.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean5.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly ensure the equipment is cleaned to perfection.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean56.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please take a moment to clean the equipment completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean63.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Access the cloth and gently remove debris from the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean710.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Proceed with cleaning the equipment immediately.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean49.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Give the equipment a thorough cleaning, please.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean56.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please carry out a thorough cleaning of the equipment, ensuring it's spotless.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean9.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Get the cloth and scrub the rust off the wrench.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean26.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Utilize the cloth to sanitize the wrench.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean59.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Select the cloth and remove all particles from the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean710.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please take a moment to clean the equipment completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean44.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Would you mind using the cloth to clean the hammer thoroughly?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean62.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you ensure the hammer is shiny using the cloth?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean96.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Pick up the cloth and scrub away any stubborn stains on the wrench.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean25.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "It's a good idea to keep the equipment clean and tidy.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean63.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Would you please pick up the cloth and clean the wrench properly?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean510.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Be sure to clean the equipment with meticulous attention.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean58.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure every part of the equipment is cleaned well.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean32.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean the equipment completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean43.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Pick up the cloth and clean the liquid spill from the wrench.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean5.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Select the cloth for cleaning the hammer effectively.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean610.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please carry out a thorough cleaning of the equipment, ensuring it's spotless.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean94.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you take the cloth and clean the hammer carefully?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean97.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you make sure the equipment is cleaned thoroughly?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean73.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please be sure to clean the equipment as part of your routine.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean93.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the equipment is cleaned thoroughly, focusing on difficult-to-reach areas.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean84.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly clean the wrench using the cloth with care.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean22.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment now, ensuring no residue is left behind.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean53.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you use the cloth to remove all dirt from the wrench?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean21.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Be sure to clean every nook and cranny of the equipment.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean710.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you utilize the cloth to clear debris from the hammer?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean88.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the hammer is spotless by using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean98.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the hammer is spotless with the help of the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean92.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please ensure the equipment is immaculately clean.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean36.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "One must clean the equipment to adhere to maintenance protocols.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean38.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make the equipment shine with a good cleaning.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean46.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly select the cloth and scrub the hammer thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean91.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Access the cloth and gently remove debris from the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean68.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean every part of the equipment thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean79.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please carry out a thorough cleaning of the equipment, ensuring it's spotless.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean65.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Why not give the equipment a good clean?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean810.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please take a moment to clean the equipment completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean36.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly clean the equipment, paying attention to detail.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean45.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Seek out the cloth and clear out any dust from the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean82.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Take care to clean the equipment, ensuring no debris remains.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean42.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Thoroughly clean the wrench using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean5.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "I suggest cleaning the equipment now to avoid any issues later.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean67.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Take some time to ensure the equipment is clean.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean64.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Be sure to clean every nook and cranny of the equipment.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean33.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "It's time to clean the equipment; let's make it shine!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean94.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please ensure the equipment is cleaned thoroughly and carefully.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean74.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure a spotless finish by cleaning the equipment properly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean94.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Seek out the cloth and remove all debris from the wrench.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean59.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "The equipment requires a thorough cleaning—let's get to it!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean57.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Gently scrub the hammer using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean95.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Hey, give that equipment a good cleaning!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean64.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Would you mind using the cloth to clean the hammer thoroughly?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean89.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Don't forget to clean the equipment before the next use.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean7.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Don't forget to clean the equipment thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean48.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Would you mind using the cloth to clean the wrench thoroughly?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean47.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly proceed to clean the equipment with precision.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean93.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please be sure to clean the equipment as part of your routine.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean99.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment efficiently and effectively.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean59.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly apply the cloth to cleanse the hammer effectively.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean74.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "You should clean the equipment to maintain hygiene.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean2.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Go ahead and clean the equipment with care.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean63.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please pick up the cloth to clean the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean94.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean the equipment completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean27.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make certain to clean the equipment extensively.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean95.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Use the cloth to scrub the hammer clean.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean76.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Let's get the equipment cleaned up for the next task.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean56.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "One must clean the equipment to adhere to maintenance protocols.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean55.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment now to avoid operational issues later.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean7.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the equipment is cleaned to perfection.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean77.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you make sure the equipment is cleaned thoroughly?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean24.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Give the equipment a thorough cleaning, please.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean36.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Give the equipment a thorough cleaning, please.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean66.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please be sure to clean the equipment as part of your routine.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean410.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly clean the wrench using the cloth with care.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean59.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Why not give the equipment a good clean?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean87.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Be sure to clean the equipment completely, leaving no dirt behind.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean510.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please ensure the equipment is cleaned thoroughly and carefully.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean95.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the hammer thoroughly using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean75.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Give the equipment a good cleaning, if you would.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean38.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the equipment is cleaned thoroughly, focusing on difficult-to-reach areas.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean68.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please carry out a thorough cleaning of the equipment, ensuring it's spotless.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean5.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Would you mind giving the equipment a thorough cleaning?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean47.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please clean the equipment with care to prevent any damage.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean54.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean every part of the equipment effectively.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean73.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "You should clean the equipment regularly for best performance.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean46.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Gently clean the wrench using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean38.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly proceed with cleaning the equipment as instructed.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean72.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean every part of the equipment effectively.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean8.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to give the equipment a thorough cleaning.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean93.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Thoroughly clean the wrench with the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean24.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "You are requested to clean the equipment thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean9.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Get the cloth and ensure the wrench is free of any grime buildup.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean24.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Seek out the cloth and clear out any dust from the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean66.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please employ the cloth to clean the wrench.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean3.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the hammer thoroughly using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean86.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Take care to clean the equipment, ensuring no debris remains.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean31.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment meticulously to maintain its functionality.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean22.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment meticulously to ensure optimal performance.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean82.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Select the cloth and remove all particles from the wrench.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean41.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you ensure the hammer is shiny using the cloth?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean81.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "It's a good idea to keep the equipment clean and tidy.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean6.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Thoroughly clean the wrench with the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean310.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you utilize the cloth to clear debris from the hammer?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean81.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Let's tackle the cleaning of the equipment together!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean84.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Would you mind tidying up the equipment?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean43.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Don't forget to clean the equipment properly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean83.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Would you be so kind as to clean the wrench with the cloth?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean3.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment thoroughly, ensuring all areas are addressed.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean83.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Gently scrub the wrench using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean37.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Let's get the equipment cleaned up for the next task.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean8.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Proceed with cleaning the equipment immediately.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean95.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Why not give the equipment a good clean?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean68.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Locate the cloth and begin wiping down the wrench.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean22.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment now to avoid operational issues later.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean75.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Let's focus on cleaning the equipment thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean38.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly ensure the equipment is spotless.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean8.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Use the cloth to remove all visible dirt from the wrench.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean51.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Let's get the equipment cleaned up for the next task.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean86.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Take care to clean the equipment, ensuring no debris remains.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean4.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please ensure the equipment is cleaned thoroughly and carefully.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean23.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Identify the cloth and polish the hammer until it shines.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean68.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Hey, give that equipment a good cleaning!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean81.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Give the equipment a good cleaning, if you would.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean710.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment thoroughly, ensuring all areas are addressed.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean37.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Proceed with cleaning the equipment immediately.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean74.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the wrench thoroughly using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean43.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "The equipment requires a thorough cleaning—let's get to it!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean910.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Don't forget to clean the equipment properly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean610.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please clean the equipment with care to prevent any damage.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean53.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly clean the equipment, paying attention to detail.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean21.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "The equipment requires a thorough cleaning—let's get to it!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean78.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "It would be wise to clean the equipment thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean35.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the equipment is cleaned to perfection.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean34.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you utilize the cloth to clear debris from the hammer?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean88.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Seek out the cloth and clear out any dust from the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean81.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Employ the cloth to thoroughly clean the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean64.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Take some time to ensure the equipment is clean.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean510.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Let's focus on cleaning the equipment thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean98.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean every part of the equipment thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean21.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure a spotless finish by cleaning the equipment properly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean44.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Use the cloth to ensure the hammer is completely clean.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean84.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Hey, make sure the equipment is cleaned up!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean69.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the equipment is cleaned to maintain hygiene standards.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean410.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Select the cloth and apply it to the wrench before wiping.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean10.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please clean the equipment with care to prevent any damage.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean210.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Apply the cloth to clean the hammer completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean71.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Use the cloth to remove all visible dirt from the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean84.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Would you please use the cloth to sanitize the hammer?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean84.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you make sure the equipment is cleaned thoroughly?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean98.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the hammer is free from grime with the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean710.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment, ensuring that every surface is free from debris.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean310.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Go ahead and clean the equipment with care.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean6.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Hey, make sure the equipment is cleaned up!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean89.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please ensure the equipment is immaculately clean.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean710.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment thoroughly, ensuring all areas are addressed.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean22.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "It's important to clean the equipment properly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean54.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please ensure the equipment is cleaned thoroughly and carefully.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean7.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please find the cloth and ensure the hammer is spotless.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean85.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you please clean the equipment and ensure it's in pristine condition?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean27.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly clean the equipment, paying attention to detail.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean10.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Clean the equipment meticulously to ensure optimal performance.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean51.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Identify the cloth and polish the hammer until it shines.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean68.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to give the equipment a good cleaning.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean7.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Let's get the equipment cleaned up for the next task.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean55.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean the wrench using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean24.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly clean the wrench using the cloth with care.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean39.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please take a moment to clean the equipment completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean710.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please be sure to clean the equipment as part of your routine.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean1.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the equipment is cleaned thoroughly, focusing on difficult-to-reach areas.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean31.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Utilize the cloth to clean the hammer.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean910.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Gently scrub the wrench using the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean28.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Let's tackle the cleaning of the equipment together!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean710.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean the equipment completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean9.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Select the cloth and spray it on the wrench, then wipe them clean.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean41.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean every part of the equipment thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean29.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please clean the equipment with care to prevent any damage.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean49.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please clean the equipment with care and attention to detail.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean61.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean every part of the equipment thoroughly.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean87.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Kindly clean the equipment, paying attention to detail.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean58.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Would you mind giving the equipment a thorough cleaning?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean86.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please clean the equipment, making sure every part is spotless.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean58.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please be sure to clean the equipment as part of your routine.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean33.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you ensure the wrench is shiny using the cloth?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean52.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "It would be great if you could clean the equipment with precision.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean23.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "It's time to clean the equipment; let's make it shine!",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean76.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "It is recommended to clean the equipment to prevent buildup.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean1.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Ensure the wrench is free from grime with the cloth.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean1.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Grab the cloth and ensure the hammer is free of fingerprints.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean97.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Could you locate the cloth to ensure the wrench is dust-free?",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean56.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to wipe down all parts of the equipment.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean62.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure to clean the equipment completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean1.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Make sure every part of the equipment is cleaned well.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\clean\\clean52.png",
+    "objects": [
+      "wrench"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the wrench"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Remember to clean the equipment diligently.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean910.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  },
+  {
+    "prompt": "Please take a moment to clean the equipment completely.",
+    "task_id": 10,
+    "task_type": "clean_equipment",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\clean\\clean82.png",
+    "objects": [
+      "hammer"
+    ],
+    "container": "",
+    "container_status": "open",
+    "actions": [
+      "Pick up the cloth",
+      "Clean the hammer"
+    ],
+    "class_type": "cleaning_tool"
+  }
+]

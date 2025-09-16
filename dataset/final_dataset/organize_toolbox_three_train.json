@@ -1,0 +1,4942 @@
+[
+  {
+    "prompt": "Could you kindly arrange the three items in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_074.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please make sure all three items are organized in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw77.png",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you place the three items in the toolbox for better organization?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw12.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you mind placing wrench, wire stripper, and pliers in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_049.jpg",
+    "objects": [
+      "wrench",
+      "wire stripper",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_2_object"
+  },
+  {
+    "prompt": "Place hammer, wrench, and hammer securely in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_023.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Put the three items inside the toolbox to maintain order.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw710.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Consider arranging the three items within the toolbox for better accessibility.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_080.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly set hammer, pliers, and screwdriver in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_015.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you place the wrench, wire stripper, and pliers inside the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_050.jpg",
+    "objects": [
+      "wrench",
+      "wire stripper",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let's place the three items securely inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw410.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please fit wire stripper, hammer, and wrench into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wire stripper",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_046.jpg",
+    "objects": [
+      "wire stripper",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Fantastic! Let's place the wrench, screwdriver, and pliers into the toolbox with care.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_013.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_2_object"
+  },
+  {
+    "prompt": "Could you kindly place the hammer, hammer, and screwdriver into the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_032.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You're on the right track! Put the hammer, hammer, and screwdriver into the toolbox securely.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_027.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure the toolbox contains the items in an orderly fashion.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_083.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "When convenient, please place the wrench, hammer, and wrench into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_043.jpg",
+    "objects": [
+      "wrench",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly put the hammer, pliers, and screwdriver into the toolbox for safekeeping.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_039.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You're doing great! Carefully place the chisel, hammer, and screwdriver into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "chisel",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_036.jpg",
+    "objects": [
+      "chisel",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the chisel",
+      "Put the chisel in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure the hammer, pliers, and screwdriver are placed in the toolbox without crowding.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_015.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you place the three items in the toolbox for better organization?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_051.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place the three items into the toolbox with care and precision.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_087.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly ensure the toolbox is organized with the three items.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_017.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please organize hammer, wrench, and hammer within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_025.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place each of the items: pliers, wrench, and screwdriver into the toolbox, ensuring they fit comfortably.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_078.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "It would be great if you could put the chisel, hammer, and wrench into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "chisel",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_021.jpg",
+    "objects": [
+      "chisel",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the chisel",
+      "Put the chisel in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place each of the items: wrench, screwdriver, and hammer into the toolbox, ensuring they fit comfortably.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_017.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you mind placing the hammer, pliers, and screwdriver into the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_011.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You might want to consider arranging those three items inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_059.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you kindly organize the three items inside the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "screwdriver",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_005.jpg",
+    "objects": [
+      "screwdriver",
+      "hammer",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the three items in the toolbox for better organization.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_061.jpg",
+    "objects": [
+      "pliers",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please take care to organize the three items in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw08.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You're almost finished! Place the wire stripper, hammer, and wrench into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wire stripper",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_046.jpg",
+    "objects": [
+      "wire stripper",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure all three items are neatly positioned in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw11.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please organize hammer, wrench, and screwdriver within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_002.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the three items inside the toolbox so they’re easy to find.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_002.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure that the wrench, screwdriver, and hammer are positioned securely within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_045.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please arrange the wrench, screwdriver, and hammer within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_048.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure the toolbox is packed with all three items in an orderly way.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_056.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the hammer, pliers, and screwdriver in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_040.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You're nearly there! Place the hammer, wrench, and hammer into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_023.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure hammer, wrench, and screwdriver are placed in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_022.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Position the three items in the toolbox to keep it tidy.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_023.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Position the hammer, pliers, and screwdriver inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_016.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "It would be helpful to put the hammer, wrench, and hammer into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_023.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you kindly place the wrench, pliers, and screwdriver into the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_008.jpg",
+    "objects": [
+      "wrench",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Perhaps you could place the hammer, hammer, and screwdriver into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_032.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly place all three items inside the toolbox for safekeeping.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_047.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you mind placing the three items into the toolbox to keep things organized?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw27.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you be so kind as to place the wrench, screwdriver, and hammer inside the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_017.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Make sure you place all three items in the toolbox efficiently.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw87.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you take a moment to arrange the three items neatly in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_089.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Insert the wrench, screwdriver, and hammer methodically into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_048.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Put the three items inside the toolbox to maintain order.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_041.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place the three items inside the toolbox to ensure everything is organized.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw43.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Make sure the toolbox has all three items properly positioned.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_029.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please take the time to position the three items correctly inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_014.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_2_object"
+  },
+  {
+    "prompt": "Go ahead and put those three items in the toolbox efficiently.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_074.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Secure the hammer, hammer, and chisel in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_034.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "chisel"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the chisel",
+      "Put the chisel in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Secure the wrench, hammer, and wrench in the toolbox to maintain their order.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_018.jpg",
+    "objects": [
+      "wrench",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you kindly organize those three items into the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw45.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please put the three items into the toolbox in an orderly manner.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_037.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Go ahead and put those three items in the toolbox efficiently.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw89.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please make sure all three items are organized in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_004.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_2_object"
+  },
+  {
+    "prompt": "Neatly place the wrench, screwdriver, and pliers into the toolbox, avoiding any overlap.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_010.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_1_object"
+  },
+  {
+    "prompt": "You're doing great! Carefully place the hammer, wrench, and wrench into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_009.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "It would be great if you could organize the three items within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_065.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly organize the three items within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_016.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please arrange those three items neatly inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_080.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Carefully position hammer, hammer, and screwdriver in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_027.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please arrange hammer, pliers, and screwdriver in the toolbox for me.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_015.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let's get those three items nicely placed in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_034.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "chisel"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the chisel",
+      "Put the chisel in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you kindly put the hammer, pliers, and screwdriver into the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_039.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the wrench, screwdriver, and pliers properly inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_013.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_2_object"
+  },
+  {
+    "prompt": "Kindly arrange the three items in the toolbox for easy access.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw33.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place the three items in the toolbox and keep it organized.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_031.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you place wire stripper, hammer, and wrench into the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wire stripper",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_046.jpg",
+    "objects": [
+      "wire stripper",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please take the time to position the three items correctly inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw09.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you please ensure wrench, screwdriver, and hammer are placed in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_044.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you please ensure hammer, wrench, and hammer are placed in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_025.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please ensure the three items are arranged inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_010.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_1_object"
+  },
+  {
+    "prompt": "Please place wrench, screwdriver, and hammer inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_045.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please ensure the toolbox has the three items neatly organized.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_035.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly set hammer, wrench, and hammer in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_014.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_2_object"
+  },
+  {
+    "prompt": "Place screwdriver, hammer, and pliers securely in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "screwdriver",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_005.jpg",
+    "objects": [
+      "screwdriver",
+      "hammer",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let's place the three items securely inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw37.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Carefully position hammer, wrench, and screwdriver in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_002.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Put the pliers, wrench, and screwdriver in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_075.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you take a moment to arrange the three items neatly in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_074.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure the hammer, wrench, and hammer are situated inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_023.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Make sure the toolbox has the three items organized properly.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw68.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Organize the hammer, hammer, and screwdriver in the toolbox for easy access.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_027.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure the wrench, pliers, and screwdriver are placed within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_008.jpg",
+    "objects": [
+      "wrench",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "It would be beneficial to place the hammer, wrench, and hammer into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_014.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_2_object"
+  },
+  {
+    "prompt": "Position the three items in the toolbox to keep it tidy.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "screwdriver",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_019.jpg",
+    "objects": [
+      "screwdriver",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You might want to consider arranging those three items inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_051.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure the wrench, screwdriver, and hammer are placed within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_060.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure that the three items are neatly arranged within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_055.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly ensure wrench, screwdriver, and pliers are stored in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_006.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place the wrench, screwdriver, and pliers carefully in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_004.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_2_object"
+  },
+  {
+    "prompt": "Feel free to arrange the three items in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_065.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly put the wrench, screwdriver, and hammer into the toolbox for safekeeping.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_044.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please arrange those three items neatly inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw39.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Nice job! Carefully position the hammer, pliers, and screwdriver inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_040.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Put wrench, hammer, and wrench into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_043.jpg",
+    "objects": [
+      "wrench",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please organize hammer, pliers, and screwdriver within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_042.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you kindly arrange the three items in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_009.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly put the hammer, hammer, and screwdriver into the toolbox for safekeeping.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_027.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure that the wrench, screwdriver, and pliers are positioned securely within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_006.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly ensure that the toolbox is arranged with all three items placed inside.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_056.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please gently put the hammer, hammer, and screwdriver into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_031.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the three items inside the toolbox as soon as possible.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_084.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the wrench, screwdriver, and hammer inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_045.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "May I suggest putting the wrench, screwdriver, and hammer into the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_055.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You might want to organize those three items in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_012.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let's place the three items securely inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_042.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you mind putting those three items in the toolbox in an orderly fashion?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_089.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure all three items are inside the toolbox and properly arranged.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_080.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You might want to organize those three items in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw010.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly put the wrench, hammer, and wrench into the toolbox for safekeeping.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_018.jpg",
+    "objects": [
+      "wrench",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly place all three items inside the toolbox for safekeeping.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_087.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you kindly organize the three items inside the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_089.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place the three items in the toolbox and keep it organized.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw65.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange wire stripper, hammer, and wrench neatly in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wire stripper",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_046.jpg",
+    "objects": [
+      "wire stripper",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Take a moment to fit all three items into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw15.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Put the three items inside the toolbox to maintain order.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw49.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let's get those three items nicely placed in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_073.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly ensure that the toolbox is arranged with all three items placed inside.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_085.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let’s get those three items settled neatly into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_003.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Insert the wrench, screwdriver, and hammer methodically into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_045.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place the hammer, wrench, and screwdriver carefully in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_022.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the wrench, screwdriver, and pliers inside the toolbox in a stable manner.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_047.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "It’s important to have the three items neatly organized in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw99.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please ensure that all three items are arranged neatly inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_073.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange hammer, hammer, and chisel within the toolbox in a logical order.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_034.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "chisel"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the chisel",
+      "Put the chisel in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly ensure that the toolbox is arranged with all three items placed inside.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw810.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you mind arranging the three items inside the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wire stripper",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_046.jpg",
+    "objects": [
+      "wire stripper",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Put wire stripper, hammer, and wrench into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wire stripper",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_046.jpg",
+    "objects": [
+      "wire stripper",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Fit the hammer, hammer, and screwdriver into the toolbox, ensuring stability.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_032.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Excellent job! Now, gently place the hammer, pliers, and screwdriver into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_040.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let's make sure those three items are neatly placed in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_080.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly put the wrench, hammer, and wrench into the toolbox for safekeeping.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_018.jpg",
+    "objects": [
+      "wrench",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Pack the toolbox with the three items, ensuring they fit well.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_085.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place all three items inside the toolbox, ensuring they are well organized.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_084.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please see to it that the three items are stored within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_050.jpg",
+    "objects": [
+      "wrench",
+      "wire stripper",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you place the hammer, hammer, and screwdriver inside the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_028.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please arrange the three items in the toolbox in a neat manner.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_090.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please ensure that the three items are snugly arranged in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_007.jpg",
+    "objects": [
+      "wrench",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_2_object"
+  },
+  {
+    "prompt": "Could you kindly place the three items inside the toolbox in an orderly fashion?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw25.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the three items inside the toolbox as soon as possible.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_057.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you kindly ensure hammer, wrench, and screwdriver are in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_022.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Position the hammer, wrench, and hammer within the toolbox for optimal accessibility.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_026.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Organize the hammer, wrench, and screwdriver inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_022.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure that the toolbox contains the three items, arranged neatly.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_001.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please ensure the three items are arranged inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw61.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Carefully position the wrench, screwdriver, and hammer inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_044.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you please ensure hammer, hammer, and screwdriver are placed in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_031.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the three items inside the toolbox as soon as possible.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_065.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the three items to fit well in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_056.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you mind arranging the three items inside the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_040.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure that the wire stripper, hammer, and wrench are positioned securely within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wire stripper",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_046.jpg",
+    "objects": [
+      "wire stripper",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you kindly organize those three items into the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_059.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly ensure that the toolbox is arranged with all three items placed inside.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_044.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Make sure the three items are placed into the toolbox in an organized way.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_024.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place the three items into the toolbox with care and precision.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw86.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Nice job! Carefully position the wrench, pliers, and screwdriver inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_008.jpg",
+    "objects": [
+      "wrench",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Place all three items inside the toolbox, ensuring they are well organized.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "chisel",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_020.jpg",
+    "objects": [
+      "chisel",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the chisel",
+      "Put the chisel in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure the hammer, hammer, and screwdriver are placed in the toolbox without crowding.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_028.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly set wrench, wire stripper, and pliers in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_050.jpg",
+    "objects": [
+      "wrench",
+      "wire stripper",
+      "pliers"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the wire stripper",
+      "Put the wire stripper in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the chisel, hammer, and wrench properly inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "chisel",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_020.jpg",
+    "objects": [
+      "chisel",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the chisel",
+      "Put the chisel in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Nice going! Place the wrench, screwdriver, and hammer inside the toolbox in an orderly fashion.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_038.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly ensure hammer, wrench, and screwdriver are stored in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_022.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You're progressing well! Place the hammer, pliers, and screwdriver into the toolbox efficiently.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_012.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let's make sure the toolbox contains all three items properly.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw46.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Carefully position hammer, pliers, and screwdriver in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_012.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you position hammer, wrench, and hammer in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_026.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "When convenient, please place the pliers, wrench, and screwdriver into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_081.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Arrange the three items in the toolbox for better organization.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_030.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Could you kindly arrange the three items in the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_080.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Make sure you place all three items in the toolbox efficiently.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_038.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "You're on the right track! Put the hammer, hammer, and screwdriver into the toolbox securely.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_030.jpg",
+    "objects": [
+      "hammer",
+      "hammer",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure all three items are neatly positioned in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_061.jpg",
+    "objects": [
+      "pliers",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you mind placing the three items into the toolbox to keep things organized?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_051.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly ensure the three items are appropriately arranged inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw42.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "It would be beneficial to place the hammer, wrench, and wrench into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_009.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "It's time to place all three items into the toolbox efficiently.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw82.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Insert the wrench, screwdriver, and hammer methodically into the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_048.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let's make sure the toolbox contains all three items properly.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw06.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Position wrench, hammer, and wrench inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_043.jpg",
+    "objects": [
+      "wrench",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please organize the three items in the toolbox with care.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_082.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Let's place the three items securely inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "images_byAI\\3tools\\3tools\\hsw210.png",
+    "objects": [
+      "hammer",
+      "screwdriver",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Find the hammer",
+      "Put the hammer in the toolbox",
+      "Find the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Find the wrench",
+      "Put the wrench in the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you mind putting those three items in the toolbox in an orderly fashion?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_074.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "It’s important to have the three items neatly organized in the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_043.jpg",
+    "objects": [
+      "wrench",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Might I suggest arranging the chisel, hammer, and wrench within the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "chisel",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_021.jpg",
+    "objects": [
+      "chisel",
+      "hammer",
+      "wrench"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the chisel",
+      "Put the chisel in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Ensure the toolbox contains the items in an orderly fashion.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_011.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Promptly place the three items into the toolbox in a tidy manner.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_084.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "It would be great if you could organize the three items within the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "pliers",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_082.jpg",
+    "objects": [
+      "pliers",
+      "wrench",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Please ensure that the three items are arranged neatly inside the toolbox.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "wrench",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_055.jpg",
+    "objects": [
+      "wrench",
+      "screwdriver",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "open",
+    "actions": [
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Kindly ensure the toolbox is organized with the three items.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_025.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Would you be so kind as to place the hammer, pliers, and screwdriver inside the toolbox?",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_039.jpg",
+    "objects": [
+      "hammer",
+      "pliers",
+      "screwdriver"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the pliers",
+      "Put the pliers in the toolbox",
+      "Pick up the screwdriver",
+      "Put the screwdriver in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  },
+  {
+    "prompt": "Fit the hammer, wrench, and hammer into the toolbox, ensuring stability.",
+    "task_id": 3,
+    "task_type": "organize_toolbox_three",
+    "object_target": "hammer",
+    "image_path": "organize_toolbox_three\\input\\toolbox_3_026.jpg",
+    "objects": [
+      "hammer",
+      "wrench",
+      "hammer"
+    ],
+    "container": "toolbox",
+    "container_status": "closed",
+    "actions": [
+      "Open the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Pick up the wrench",
+      "Put the wrench in the toolbox",
+      "Pick up the hammer",
+      "Put the hammer in the toolbox",
+      "Close the toolbox"
+    ],
+    "class_type": "class_toolbox_with_3_object"
+  }
+]

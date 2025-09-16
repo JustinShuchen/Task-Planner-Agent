@@ -1,0 +1,1964 @@
+[
+  {
+    "prompt": "Make sure phone is charged promptly.",
+    "task_id": 1,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge1.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Fulfill the charging requirement for the object.",
+    "task_id": 2,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge10.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Charging is required for this item.",
+    "task_id": 3,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge101.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Begin charging phone without delay.",
+    "task_id": 4,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge102.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Could you kindly ensure the object is charged?",
+    "task_id": 5,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge103.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Charge this object at your earliest convenience.",
+    "task_id": 6,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge104.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Initiate the charging process for phone.",
+    "task_id": 7,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge105.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "It's time to charge the object.",
+    "task_id": 8,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge106.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Would you be so kind as to charge this?",
+    "task_id": 9,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge107.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Be sure to charge the object thoroughly.",
+    "task_id": 10,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge108.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Charging is needed for the device.",
+    "task_id": 11,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge109.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Attend to the object's charging needs, please.",
+    "task_id": 12,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge11.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Ensure phone is charged before use.",
+    "task_id": 13,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge110.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's ensure the object is fully charged.",
+    "task_id": 14,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge12.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Get the device charged, please.",
+    "task_id": 15,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge13.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please charge phone immediately.",
+    "task_id": 16,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge14.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make sure phone is charged sufficiently.",
+    "task_id": 17,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge15.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please proceed with charging the object.",
+    "task_id": 18,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge16.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Promptly charge the object.",
+    "task_id": 19,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge17.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Kindly ensure the item is charged.",
+    "task_id": 20,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge18.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Kindly see to it that the battery is recharged.",
+    "task_id": 21,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge19.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make sure phone is under charge.",
+    "task_id": 22,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge2.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Get the device charged, please.",
+    "task_id": 23,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge21.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Remember to charge the object at your earliest convenience.",
+    "task_id": 24,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge210.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Initiate the charging sequence for phone.",
+    "task_id": 25,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge22.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Ensure the charging of phone is underway.",
+    "task_id": 26,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge23.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make sure the battery is topped up.",
+    "task_id": 27,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge24.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Would you please charge the phone?",
+    "task_id": 28,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge25.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Could you kindly ensure the object is charged?",
+    "task_id": 29,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge26.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please proceed with charging the unit.",
+    "task_id": 30,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge27.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please see that this gets charged.",
+    "task_id": 31,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge28.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please initiate the charging process.",
+    "task_id": 32,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge29.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Could you initiate charging for the phone?",
+    "task_id": 33,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge3.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Why not give it a charge now?",
+    "task_id": 34,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge31.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Ensure the charging cycle is started for phone.",
+    "task_id": 35,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge310.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's make sure the item is charged.",
+    "task_id": 36,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge32.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Charge this object as soon as possible.",
+    "task_id": 37,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge33.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's ensure it is charged without delay.",
+    "task_id": 38,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge34.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please attend to the charging process.",
+    "task_id": 39,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge35.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "It's necessary to charge the item fully.",
+    "task_id": 40,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge36.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Would you please charge the phone?",
+    "task_id": 41,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge37.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Consider the charging of the object complete.",
+    "task_id": 42,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge38.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "How about charging the phone at this time?",
+    "task_id": 43,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge39.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Begin charging phone without delay.",
+    "task_id": 44,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge4.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "The object needs charging, could you assist?",
+    "task_id": 45,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge41.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make sure the charge is at maximum capacity.",
+    "task_id": 46,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge410.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's make sure the item is charged.",
+    "task_id": 47,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge42.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's make sure the object is fully charged.",
+    "task_id": 48,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge43.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please attend to the charging process for the item.",
+    "task_id": 49,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge44.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please ensure the power source is replenished.",
+    "task_id": 50,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge45.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Ensure that the energy levels are restored.",
+    "task_id": 51,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge46.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please consider charging the phone promptly.",
+    "task_id": 52,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge47.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Ensure that charging is completed.",
+    "task_id": 53,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge48.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's ensure it is charged without delay.",
+    "task_id": 54,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge49.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Would you kindly charge the phone?",
+    "task_id": 55,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge5.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Charge this object as soon as possible.",
+    "task_id": 56,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge51.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Would you take a moment to energize the item?",
+    "task_id": 57,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge510.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make sure phone is charged completely.",
+    "task_id": 58,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge52.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please be diligent in charging the object.",
+    "task_id": 59,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge53.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please charge phone immediately.",
+    "task_id": 60,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge54.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Remember to charge the device.",
+    "task_id": 61,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge55.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Kindly ensure the object is charged.",
+    "task_id": 62,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge56.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Kindly ensure the item is charged.",
+    "task_id": 63,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge57.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Charge the object immediately.",
+    "task_id": 64,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge58.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Start charging phone without delay.",
+    "task_id": 65,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge59.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make sure the charge is at maximum capacity.",
+    "task_id": 66,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge6.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Kindly see to it that the battery is recharged.",
+    "task_id": 67,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge61.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's juice up the device.",
+    "task_id": 68,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge610.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please proceed to charge the device.",
+    "task_id": 69,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge62.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "The object needs charging, could you assist?",
+    "task_id": 70,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge63.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's focus on charging the object now.",
+    "task_id": 71,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge64.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Could you verify that the phone is charged?",
+    "task_id": 72,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge65.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's make sure it gets charged!",
+    "task_id": 73,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge66.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Initiate the charging process immediately.",
+    "task_id": 74,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge67.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Begin the process to charge phone.",
+    "task_id": 75,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge68.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please ensure phone is charged before use.",
+    "task_id": 76,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge69.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Ensure that charging is completed.",
+    "task_id": 77,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge7.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make sure phone is charged completely.",
+    "task_id": 78,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge71.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please attend to the charging process for the item.",
+    "task_id": 79,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge710.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Kindly see to it that the battery is recharged.",
+    "task_id": 80,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge72.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please be diligent in charging the object.",
+    "task_id": 81,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge73.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's make sure the item is charged.",
+    "task_id": 82,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge74.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Charging the object is essential.",
+    "task_id": 83,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge75.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Kindly ensure charging of the phone.",
+    "task_id": 84,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge76.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make sure to charge it at your earliest convenience.",
+    "task_id": 85,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge77.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Kindly attend to the task of charging the object.",
+    "task_id": 86,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge78.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Go ahead and charge the item.",
+    "task_id": 87,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge79.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Would you mind charging this object?",
+    "task_id": 88,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge8.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Be sure to charge the object thoroughly.",
+    "task_id": 89,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge81.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please attend to the charging process.",
+    "task_id": 90,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge810.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Would you mind charging this object?",
+    "task_id": 91,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge82.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make sure the battery is topped up.",
+    "task_id": 92,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge83.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Take care to charge the item fully.",
+    "task_id": 93,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge84.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's ensure it is charged without delay.",
+    "task_id": 94,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge85.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's juice up the device.",
+    "task_id": 95,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge86.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Go ahead and charge it now.",
+    "task_id": 96,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge87.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Charge this object as soon as possible.",
+    "task_id": 97,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge88.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Attend to the object's charging needs, please.",
+    "task_id": 98,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge89.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's make sure it gets charged!",
+    "task_id": 99,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge9.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Get the device charged, please.",
+    "task_id": 100,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge91.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Start charging phone at once.",
+    "task_id": 101,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge910.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Please proceed with charging the object.",
+    "task_id": 102,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge92.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Charge this object at your earliest convenience.",
+    "task_id": 103,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge93.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Ensure the object is charged and ready.",
+    "task_id": 104,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge94.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Could you ensure phone is charged and ready?",
+    "task_id": 105,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge95.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Go ahead and charge it now.",
+    "task_id": 106,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge96.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Don't forget to charge it properly.",
+    "task_id": 107,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge97.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Let's juice up the device.",
+    "task_id": 108,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge98.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  },
+  {
+    "prompt": "Make it a priority to charge the object.",
+    "task_id": 109,
+    "task_type": "charging",
+    "object_target": "phone",
+    "image_path": "images_byAI/charging/images/charge99.png",
+    "objects": [
+      "phone"
+    ],
+    "charger": "phone",
+    "place": "wireless charger",
+    "empty": true,
+    "actions": [
+      "Pick up the phone",
+      "Put the phone on the wireless charger"
+    ],
+    "class_type": "charge_task_single_object"
+  }
+]

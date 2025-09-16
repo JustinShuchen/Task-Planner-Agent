@@ -1,0 +1,4002 @@
+[
+  {
+    "prompt": "Put two batteries into the device to activate it.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries1.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You are requested to install two batteries now.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries10.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "It's time to place two batteries inside the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries11.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Make sure to place both batteries in the designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries12.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please ensure both batteries are securely fitted inside.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries13.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Install two batteries into the remote control for optimal performance.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries14.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and put two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries15.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Proceed to install two batteries into the respective slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries16.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please insert both batteries into the device with care.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries17.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please install two batteries into the remote control to activate its functions.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries18.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place both batteries into the designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries19.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Slide two batteries into the device, making sure they fit snugly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries2.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would it be possible for you to position both batteries in the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries20.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two new batteries securely into the remote control to ensure it functions properly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries21.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert both batteries into the remote control to ensure proper functionality.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries22.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Remember to insert both batteries to complete the setup.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries23.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Let's insert two new batteries into the remote control to get it working again.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries24.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and put two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries25.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two new batteries securely into the remote control to ensure it functions properly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries26.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure you put two batteries into the device to power it up.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries27.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert two batteries into the remote control to ensure it works properly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries28.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two fresh batteries into the remote control to power it up.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries29.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Make sure to put two batteries into the device correctly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries3.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would you mind inserting both batteries into the device?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries30.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Gently insert both batteries into the available slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries31.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Could you kindly place both batteries into their respective slots?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries32.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two batteries into the compartments as instructed.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries33.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Let's get two batteries into the device, shall we?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries34.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please insert both batteries into the designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries35.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Let's get two batteries into the device, shall we?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries36.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Don't forget to put both batteries in the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries37.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two new batteries in the remote control to ensure it functions correctly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries38.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert two batteries, making sure they are correctly aligned.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries39.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two new batteries securely into the remote control to ensure it functions properly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries4.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Put two batteries into the remote control to ensure it works smoothly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries40.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two batteries into the compartments as instructed.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries41.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two new batteries into the remote control, following the correct polarity.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries42.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would you mind inserting two batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries43.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please insert two new batteries into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries44.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would you mind placing both batteries into the device?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries45.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please put two batteries in the device to ensure functionality.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries46.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "It’s time to insert two batteries into the appropriate compartments.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries47.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Proceed to position two batteries inside the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries48.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please install two batteries into the device with care.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries49.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Kindly ensure that both batteries are securely placed inside.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries5.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure that both batteries are correctly inserted into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries50.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Make sure to put two batteries into the device correctly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries51.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Might I suggest you insert two fresh batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries52.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "It would be great if you could insert both batteries.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries53.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Make sure both batteries are inserted properly into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries54.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Kindly insert both batteries into the designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries55.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure that both batteries are placed in the remote control correctly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries56.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Slide two batteries into the device to power it up.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries57.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Make sure to insert both batteries correctly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries58.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two batteries securely in the remote control to maintain functionality.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries59.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "It would be great if you could insert both batteries.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries6.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please make sure to insert both batteries securely.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries60.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert both batteries into the remote control to ensure it powers on.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries61.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Gently insert both batteries into the available slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries62.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert both new batteries into the remote control as indicated.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries63.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Could you put two batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries64.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Kindly ensure that both batteries are securely placed inside.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries65.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Put two batteries into the remote control to ensure it works smoothly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries66.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Could you please place both batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries67.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Gently slot both batteries into the device compartments.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries68.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert both batteries carefully so they fit snugly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries69.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Load both batteries into their respective compartments.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries7.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You might find it useful to place two batteries securely into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries70.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please insert both batteries into the device with care.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries71.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure both batteries are securely installed.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries72.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Could you kindly insert two new batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries73.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Install two batteries into the remote control for optimal performance.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries74.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure both batteries are properly fitted in the remote control to avoid any operational issues.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries75.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Gently insert both batteries to ensure proper function.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries76.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place the two batteries firmly where they belong.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries77.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two batteries into the device as per guidelines.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries78.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Might I suggest you insert two fresh batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries79.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Perhaps you could verify that two new batteries are placed in the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries8.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and insert two batteries to get things powered up.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries80.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert both new batteries into the remote control as indicated.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries81.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place both batteries securely into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries82.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You should place two batteries inside the device now.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries83.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two batteries securely in the remote control to maintain functionality.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries84.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Securely position the two batteries in the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries85.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert two new batteries into the remote control to ensure proper functionality.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries86.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and put two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries87.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert both batteries carefully so they fit snugly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries88.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Proceed to install two batteries into the respective slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries89.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Kindly insert two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries9.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure that two batteries are placed securely in the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries90.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You should insert both batteries firmly into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries91.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Set two batteries in place to activate the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries92.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Install two batteries into the appropriate sections of the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries93.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Slide two batteries into the device to power it up.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries94.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Feel free to put two batteries in their compartments.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries95.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and place both batteries into the designated areas.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries1.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please put two fresh batteries in the remote control to power it up.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries10.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure that both batteries are placed correctly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries11.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and put two batteries into their proper places.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries12.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Let's put two batteries in their respective compartments.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries13.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would you mind inserting both batteries into the device?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries14.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two batteries in the remote control to maintain its operation.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries15.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Let's put two batteries in their respective compartments.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries16.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure you put two batteries into the device to power it up.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries17.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please confirm that you have inserted two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries18.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please place both batteries in the device for optimal performance.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries19.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please make sure two batteries are correctly placed in the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries2.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Kindly insert both batteries into the designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries20.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place both batteries carefully into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries21.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You are requested to install two batteries now.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries22.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert two batteries, making sure they are correctly aligned.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries23.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Install both batteries with precision for optimal performance.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries24.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and place two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries25.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Mount the two batteries into the remote control accurately.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries26.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Proceed to install both batteries as instructed.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries27.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and place both batteries into the designated areas.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries28.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two batteries in the remote control to maintain its operation.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries29.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two batteries into the device as per guidelines.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries3.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Gently insert both batteries into the available slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries30.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "It would be wonderful if you could gently insert both batteries into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries31.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Put two batteries into the device to activate it.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries32.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Gently insert both batteries into the available slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries33.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Kindly position both batteries properly into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries34.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two new batteries inside the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries35.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and place two batteries inside the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries36.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Could you put both batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries37.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You should place two batteries inside the device now.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries38.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Could you insert both batteries into the device?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries39.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You should now insert two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries4.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please insert both batteries into the device with care.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries40.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please install two batteries into the device with care.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries41.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please place both batteries in the device for optimal performance.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries42.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please insert two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries43.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please confirm that you have inserted two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries44.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please ensure both batteries are securely fitted into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries45.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would you kindly place two batteries into the device?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries46.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "It's time to place two batteries inside the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries47.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert two batteries, making sure they are correctly aligned.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries48.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure that both batteries are placed correctly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries49.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please make sure to insert both batteries securely.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries5.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please insert two batteries into the device to ensure it functions properly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries50.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert both batteries into the remote control to start the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries51.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert both batteries into the remote control with the correct polarity.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries52.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Proceed to install both batteries as instructed.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries53.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Load two batteries into the remote control to activate it.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries54.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Align and insert two new batteries into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries55.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please insert both batteries into the remote control securely.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries56.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please install two batteries into the device with care.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries57.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert the two batteries into the remote control properly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries58.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place both batteries securely into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries59.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please ensure both batteries are securely fitted inside.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries6.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Add two new batteries to the remote control to restore functionality.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries60.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please make sure to insert both batteries securely.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries61.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please insert both batteries into the device with care.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries62.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place the two batteries firmly where they belong.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries63.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Carefully place both batteries into the slots provided.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries64.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Make sure to place both batteries firmly into their slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries65.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Let's get two batteries into the device, shall we?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries66.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Could you kindly place both batteries into their respective slots?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries67.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure both batteries are installed in the remote control to enable its usage.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries68.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "It's time to place two batteries inside the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries69.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Proceed to position two batteries inside the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries7.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Perhaps you could verify that two new batteries are placed in the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries70.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert two new batteries into the remote control to ensure proper functionality.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries71.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please confirm that you have inserted two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries72.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Securely place both batteries into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries73.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Fit both batteries securely into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries74.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Proceed to install two batteries into the respective slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries75.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place both batteries into the designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries76.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You might find it useful to place two batteries securely into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries77.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Load two batteries into the remote control to activate it.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries78.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "If you could, please make sure two batteries are inserted in the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries79.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Deploy both batteries into the remote control ensuring proper alignment.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries8.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Install both batteries with precision for optimal performance.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries80.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "It might be prudent to install two batteries in the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries81.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You should now insert two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries82.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Make sure to place both batteries in the designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries83.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Could you put two batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries84.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Let's insert two new batteries into the remote control to get it working again.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries85.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place both batteries into the designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries86.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please place two new batteries into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries87.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "It’s time to insert two batteries into the appropriate compartments.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries88.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would you please insert two batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries89.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure that both batteries are placed in the remote control correctly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries9.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two new batteries into the remote control, following the correct polarity.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries90.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Perhaps you could verify that two new batteries are placed in the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries91.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Make sure to insert both batteries correctly.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries92.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Make sure to install both batteries to get the device up and running.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries93.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Insert both batteries carefully to avoid damage.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries94.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would it be possible for you to position both batteries in the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries95.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You might find it useful to place two batteries securely into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries1.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place both batteries into the designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries10.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Please ensure the insertion of two batteries is completed.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries11.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Place two new batteries inside the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries12.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "You should place two batteries inside the device now.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries13.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would you kindly place two batteries into the device?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries14.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Would you mind placing two new batteries into the remote control?",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries15.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Go ahead and place two batteries into the device.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries16.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Ensure that two batteries are securely placed into the remote control.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries17.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  },
+  {
+    "prompt": "Add both batteries to the remote control in their designated slots.",
+    "task_id": 5,
+    "task_type": "change_batteries_two",
+    "object_target": "battery",
+    "image_path": "images_byAI/2batteries\\2batteries18.png",
+    "objects": [
+      "battery",
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick uo the battery1",
+      "Insert the battery1",
+      "Pick up the battery2",
+      "Insert the battery2"
+    ],
+    "class_type": "battery_toolbox_2"
+  }
+]

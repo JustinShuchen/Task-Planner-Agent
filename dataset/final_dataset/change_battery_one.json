@@ -1,0 +1,3402 @@
+[
+  {
+    "prompt": "Let's put a new battery into the device to get it working.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery1.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Ensure a battery is inserted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery10.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Slide the new battery into the designated slot.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery11.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Position the battery correctly in the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery12.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Go ahead and insert a battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery13.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Carefully insert a battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery14.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure to fit a new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery15.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Ensure the new battery is fitted into the device properly.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery16.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "When you feel ready, gently place a new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery17.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "When the timing is right, you might want to place a battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery18.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Fit a new battery into the device's battery compartment carefully.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery19.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please proceed to install a new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery2.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Be sure to install a new battery in the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery20.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Ensure a new battery is placed properly into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery21.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Now, place the new battery into the device compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery22.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure to put a new battery into the device securely.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery23.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly ensure a new battery is installed in the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery24.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Insert a battery into the device, confirming it is properly aligned.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery25.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Secure a new battery into the device, ensuring proper contact.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery26.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Let's go ahead and place a battery inside the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery27.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place the new battery securely into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery28.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please carefully place a new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery29.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Consider placing a fresh battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery3.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Install a new battery into the device's battery compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery30.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place the battery inside the remote control compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery31.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please ensure a new battery is placed inside the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery32.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure a new battery is snugly fitted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery33.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Secure a new battery into the device, ensuring proper contact.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery34.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Could you ensure a new battery is placed into the remote control?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery35.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please ensure a new battery is inserted correctly into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery36.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Let’s put a new battery into the device to get it running.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery37.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Install a battery into the appropriate compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery38.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Great job! Now, place the fresh battery into the remote control for optimal performance.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery39.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you mind inserting a battery into the device?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery4.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place the battery inside the remote control compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery40.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Install a new battery into the device, ensuring it is fully engaged.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery41.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please insert a new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery42.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Load the battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery43.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please ensure a new battery is placed inside the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery44.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure a new battery is snugly fitted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery45.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "You're unstoppable! Let's install the new battery into the remote control with precision.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery46.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Securely place a battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery47.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Let’s put a new battery into the device to get it running.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery48.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Ensure a new battery is placed properly into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery49.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please ensure that a fresh battery is properly installed in the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery5.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please go ahead and insert a new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery50.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Position a battery into the device, verifying it is securely seated.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery51.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Let’s place the new battery in the device now.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery52.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Gently position a fresh battery into the device's compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery53.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please go ahead and insert a new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery54.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you mind inserting a new battery into the device?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery55.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure to put a new battery into the device securely.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery56.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you kindly put a new battery into the device's designated compartment?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery57.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Be sure to install a new battery in the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery58.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a fresh battery into the remote control and ensure it fits securely.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery59.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Gently position a new battery into the device’s battery compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery6.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Outstanding effort! Make sure the new battery is snugly fitted into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery60.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Position a battery into the device, verifying it is securely seated.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery61.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Insert a battery into the compartment, making sure it aligns properly.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery62.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly insert a new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery63.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Let’s place the new battery in the device now.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery64.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the correct slot of the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery65.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a battery into the device's designated compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery66.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Put the fresh battery into the remote control and close the compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery67.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Great job! Now, slide the new battery into the remote control to keep everything powered.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery68.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Ensure a battery is inserted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery69.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the remote control and check for correct polarity.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery7.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please insert a new battery into the remote control and confirm it is secured.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery70.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Slide a battery into the device's compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery71.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure to install a battery within the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery72.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Let’s put a new battery into the device to get it running.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery73.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure to put a new battery into the device securely.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery74.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Fit a new battery into the device's battery compartment carefully.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery75.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure the new battery fits snugly into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery76.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you kindly put a new battery into the device's designated compartment?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery77.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Securely install a new battery into the device's compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery78.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Maybe you could think about placing a battery into the remote control when you find it suitable.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery79.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please make sure the new battery is inserted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery8.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please carefully place a new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery80.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Put a fresh battery into the device now.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery81.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Carefully insert a battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery82.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the correct slot of the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery83.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Pop a fresh battery into the device for optimal performance.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery84.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure to insert a new battery into the device correctly.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery85.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure to install a battery within the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery86.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Align the battery as per the markings in the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery87.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Insert a battery into the device, confirming it is properly aligned.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery88.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Position the new battery into the device securely.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery89.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please ensure a new battery is placed inside the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery9.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Slide the battery into the slot of the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery90.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Securely place the new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery91.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Carefully install the battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery92.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Slide a new battery into the device, aligning it with the connectors.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery93.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Insert a battery into the compartment, making sure it aligns properly.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery94.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Carefully install the battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery95.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Carefully install the new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery96.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Slide a new battery into the device, aligning it with the connectors.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery97.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Align the battery as per the markings in the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery98.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly insert the new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery99.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Secure a new battery into the device, ensuring proper contact.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery1.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Let’s place the new battery in the device now.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery10.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Go ahead and insert a battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery11.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Align the battery as per the markings in the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery12.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "When it feels appropriate, kindly consider putting a new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery13.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please ensure a new battery is inserted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery14.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "You could consider securely placing a fresh battery into the remote control when the time feels right.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery15.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please insert a new battery into the remote control and confirm it is secured.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery16.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please make sure to place a new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery17.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please ensure a new battery is inserted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery18.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "You're on fire! Place the new battery into the remote control with care.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery19.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly insert a new battery into the device, ensuring it fits snugly.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery2.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place the new battery securely into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery20.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Carefully insert a battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery21.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Carefully position a new battery within the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery22.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "You're unstoppable! Let's install the new battery into the remote control with precision.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery23.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please proceed to put a battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery24.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Great job! Now, place the fresh battery into the remote control for optimal performance.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery25.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Fit a new battery into the device's battery compartment carefully.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery26.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Could you please put a new battery into the remote control?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery27.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Ensure the battery is properly seated in the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery28.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you kindly put a new battery into the device's designated compartment?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery29.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the remote control and ensure alignment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery3.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Pop a battery into the device's compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery30.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly ensure a battery is fitted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery31.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Ensure a new battery is placed properly into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery32.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Consider placing a fresh battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery33.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Install a new battery into the device's battery compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery34.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Position a battery into the device, verifying it is securely seated.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery35.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the designated slot of the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery36.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure a new battery is snugly fitted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery37.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Fit a new battery into the device securely.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery38.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "You might want to add a new battery to the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery39.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Pop a battery into the device's compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery4.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly ensure a battery is fitted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery40.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the remote control and check for correct polarity.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery41.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you place a new battery into the remote control, making sure it's secure?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery42.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly insert a fresh battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery43.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you mind inserting a battery into the device?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery44.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please ensure a new battery is placed inside the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery45.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly ensure a battery is fitted into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery46.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Go ahead and place a new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery47.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "When it feels appropriate, kindly consider putting a new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery48.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Slide the new battery into the designated slot.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery49.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Insert a battery into the compartment, making sure it aligns properly.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery5.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Let's put a new battery into the device to get it working.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery50.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly insert a new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery51.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "It’s time to place a battery inside the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery52.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Carefully place a fresh battery into the device's compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery53.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Ensure the battery is properly seated in the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery54.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Slide a battery into the device's compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery55.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Gently position a new battery into the device’s battery compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery56.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Insert a battery into the compartment, making sure it aligns properly.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery57.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Great job! Now, place the fresh battery into the remote control for optimal performance.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery58.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Slide a battery into the device's compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery59.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly insert a new battery into the device, ensuring it fits snugly.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery6.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you mind inserting a battery into the device?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery60.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Kindly insert a fresh battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery61.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you kindly put a new battery into the device's designated compartment?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery62.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Set the new battery into the device compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery63.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Gently position a new battery into the device’s battery compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery64.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Position a battery into the device, verifying it is securely seated.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery65.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Insert a battery into the device, confirming it is properly aligned.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery66.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Set the new battery into the device compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery67.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Install a new battery into the device's battery compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery68.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Gently insert a battery into the device, ensuring proper alignment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery69.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place the battery inside the remote control and close the cover.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery7.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the remote control and check for correct polarity.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery70.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the remote control and ensure alignment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery71.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the correct slot of the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery72.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you kindly put a new battery into the remote control and confirm it's secure?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery73.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Install the battery in the remote control securely.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery74.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Put the fresh battery into the remote control and close the compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery75.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Consider placing a fresh battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery76.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Securely install a new battery into the device's compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery77.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Insert a battery into the compartment, making sure it aligns properly.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery78.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Make sure to put a new battery into the device securely.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery79.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "It's time to install a new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery8.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place the new battery securely into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery80.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please insert a new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery81.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please insert a new battery into the remote control and confirm it is secured.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery82.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please make sure to place a new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery83.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Secure the new battery inside the remote control compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery84.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Can you place a battery inside the device?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery85.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please go ahead and insert a new battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery86.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Carefully insert the new battery into the remote control.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery87.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Gently position a new battery into the device’s battery compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery88.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Great job! Now, slide the new battery into the remote control to keep everything powered.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery89.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Could you please insert a battery into the device?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery9.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place the battery inside the remote control compartment.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery90.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Great job! Now, place the fresh battery into the remote control for optimal performance.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery91.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Put a fresh battery into the device now.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery92.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Could you please insert a battery into the device?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery93.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place the new battery securely into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery94.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Place a new battery into the correct slot of the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery95.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Consider placing a fresh battery into the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery96.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Would you mind inserting a new battery into the device?",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery97.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Please ensure a new battery is placed inside the device.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery98.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Secure a new battery into the device, ensuring proper contact.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery99.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Insert a battery into the device, confirming it is properly aligned.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery1.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  },
+  {
+    "prompt": "Keep that momentum going! Insert the new battery into the remote control securely.",
+    "task_id": 4,
+    "task_type": "change_batteries_one",
+    "object_target": "battery",
+    "image_path": "images_byAI/battery\\battery10.png",
+    "objects": [
+      "battery"
+    ],
+    "container": "remote control",
+    "container_status": "open",
+    "actions": [
+      "Pick up the battery",
+      "Insert the battery"
+    ],
+    "class_type": "battery_toolbox_1"
+  }
+]
